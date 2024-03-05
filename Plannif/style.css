@@ -4,11 +4,14 @@ body{
     color: white;
 
 }
+
+/* Header */
+
 h1{
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    
+
 }
 header {
   margin-bottom: 2px;
@@ -16,5 +19,17 @@ header {
   flex-flow: row wrap;
   border-bottom: 5px solid yellow;
 }
+
+/* Typo */
+
+h2 {
+    font-size: 3rem;
+    text-align: Center;
+}
+ul {
+    list-style-type: none;
+    font-size: 6rem;
+}
+
 
 
