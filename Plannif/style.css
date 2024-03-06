@@ -25,11 +25,44 @@ header {
 h2 {
     font-size: 3rem;
     text-align: Center;
+
 }
 ul {
     list-style-type: none;
-    font-size: 6rem;
+    font-size: 50px;
 }
+/* Main */
+li>img {
+    vertical-align: text-top;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    width: 200px;
+}
+#Valo>img {
+    vertical-align: text-top;
+    margin-left: 281px;
+    margin-bottom: 50px;
+}
+#Osu>img {
+    vertical-align: text-top;
+    margin-left: 370px;
+    margin-bottom: 50px;
+}
+#Celeste>img {
+    vertical-align: text-top;
+    margin-left: 305px;
+    margin-bottom: 50px;
+}
+footer {
+    margin-top: 2px;
+    display: flex;
+    flex-flow: nowrap;
+    border-top: 5px Solid yellow;
 
-
+}
+footer p {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
 
