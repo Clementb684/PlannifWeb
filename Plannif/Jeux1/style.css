@@ -23,7 +23,12 @@ h2 {
 #valo{
     margin-right: 640px;
 }
-#p3r {margin-right: 590px}
+#p3r {
+    margin-right: 590px;
+}
+#osu {
+    margin-right: 660px;
+}
 h2>img {
     width: 250px;
     vertical-align: middle;
