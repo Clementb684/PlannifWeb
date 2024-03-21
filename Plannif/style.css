@@ -55,3 +55,8 @@ footer p {
     margin-right: auto;
 }
 
+.Bordure:hover {
+    border:1px solid white;
+    cursor: pointer;
+}
+
